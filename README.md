@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning BACHELOR OF COMPUTER APPLICATION
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me LINKEDIN.ANUJ KUMAR YADAV
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact EXPLORING
 
 <!---
 ANUJK16/ANUJK16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
